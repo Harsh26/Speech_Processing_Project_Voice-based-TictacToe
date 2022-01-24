@@ -1,6 +1,6 @@
 # Speech_Processing_Project_Voice-based-TictacToe
 
-Description: This is voice based Tic Tac Toe Game which uses Hidden Markov Model at it's Core. The Language used is C++. If you want to train Hidden 
+Description: This is voice based Tic Tac Toe Game which uses Hidden Markov Model at it's Core. The Language used is C/C++. If you want to train Hidden 
              Markov Model, then you need to add your own recordings in Trimmed Recording Folder,  name of each file should be same as those present
              in Trimmed Recordings, otherwise you need to modify the code.
 
